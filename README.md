@@ -3,6 +3,7 @@
 
 - Rule based chatbot that can answers questions based on key-value pair dictionaries and Regex based extraction.
 - Use Machine Learning to turn natural language into structured data and build models using the ATIS dataset, which contains thousands of sentences from real people interacting with a flight booking system.
+- Building a personal assistant that helps plan trips and be able to respond to questions like "are there any cheap hotels in the north of town?" by looking inside a hotels database for matching results.
 
 
 
